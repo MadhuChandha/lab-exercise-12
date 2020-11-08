@@ -1,8 +1,5 @@
-/*
- * TEAM 1
- * LAB EX 12
- */
-package lab.ex.pkg12;
+
+package labex12;
 
 // importing packges
 import java.util.Scanner;
