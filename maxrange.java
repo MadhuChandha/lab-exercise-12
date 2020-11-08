@@ -1,12 +1,9 @@
 
-package lbex12;
+package labbex12;
 
 import java.util.Scanner;
 
-/**
- *
- * @author user
- */
+
 public class maxrange {
 
     /**
