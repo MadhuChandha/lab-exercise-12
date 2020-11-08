@@ -1,8 +1,5 @@
-/*
- * LAB EX 12
- * TEAM 1
- */
-package lab.ex.pkg12;
+
+package labex12;
 
 /**
  *
